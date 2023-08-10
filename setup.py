@@ -5,7 +5,7 @@ with open("README.md", "r") as stream:
     long_description = stream.read()
 
 setup(
-    name=__name__,
+    name="rave.py",
     version=__version__,
     url="https://github.com/kyvio/rave.py",
     download_url="https://github.com/kyvio/rave.py/archive/refs/heads/main.zip",
