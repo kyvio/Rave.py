@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://discord.gg/s7qacU5YNX">
-    <img src="https://warehouse-camo.ingress.us-east-2.pypi.io/7218621f35d97d373866c5f5fd553a98dc1db659/68747470733a2f2f682e746f7034746f702e696f2f705f32303838623263356d312e6a7067" alt="Support Server">
-  </a>
-</p>
-
 # Unofficial Python Wrapper for Rave API ✨
 
 Simplify interaction with the Rave API using this unofficial Python wrapper. Perform actions like retrieving project details, creating new projects, and updating existing ones.
@@ -38,4 +32,4 @@ For more details, refer to the upcoming documentation.
 Contributions are welcome! Report bugs or suggest features by creating GitHub issues. Contribute code by forking the repository and submitting a pull request.
 
 ## Contact
-Questions or discussions about the package can be held on our [Discord community](https://discord.gg/YNxbWjrssp). Join us today!
+Questions or discussions about the package can be held on our [Discord community](https://discord.gg/s7qacU5YNX). Join us today!
